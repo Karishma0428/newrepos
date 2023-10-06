@@ -1,1 +1,3 @@
 Hi karishma..welcome to git hub paltform
+here I am starting my learning process of git very first step
+now this file is added into vscode ==>my-app (folder)
