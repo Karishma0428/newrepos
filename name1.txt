@@ -1,2 +1,4 @@
 3step >> cmd pull>> here i create new file in git in same folder(newrepos)
 and then i attach to my my app folder i git>> GIT-TERMINAL>> cmd ==> git pull
+
+! now  got this file in my local area(vscode) now i editing 
