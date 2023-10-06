@@ -1,0 +1,2 @@
+here i have add txt2 >> directly in vscode
+now i've  to attach in git.
